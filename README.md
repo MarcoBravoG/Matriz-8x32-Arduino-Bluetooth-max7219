@@ -10,3 +10,5 @@ https://www.robochip.net/single-post/2017/04/08/8-8-matriz-de-led-max7219-tutori
 
 SIMULADOR:
 https://wokwi.com/projects/355689297102501889
+INFORMACION EXTRAIDA
+https://programarfacil.com/blog/arduino-blog/matriz-led-arduino-max7219/
