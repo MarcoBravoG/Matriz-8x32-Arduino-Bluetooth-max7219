@@ -12,3 +12,6 @@ SIMULADOR:
 https://wokwi.com/projects/355689297102501889
 INFORMACION EXTRAIDA
 https://programarfacil.com/blog/arduino-blog/matriz-led-arduino-max7219/
+
+app inventor code
+https://puravidaapps.com/btchat.php
