@@ -19,3 +19,6 @@ https://puravidaapps.com/btchat.php
 
 circuito y codigo
 https://arduinogetstarted.com/tutorials/arduino-bluetooth-led-matrix
+
+circuito matriz
+https://simple-circuit.com/interfacing-max7219-led-dot-matrix-display-arduino/
