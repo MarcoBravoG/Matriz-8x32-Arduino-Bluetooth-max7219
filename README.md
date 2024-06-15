@@ -15,3 +15,7 @@ https://programarfacil.com/blog/arduino-blog/matriz-led-arduino-max7219/
 
 app inventor code
 https://puravidaapps.com/btchat.php
+
+
+circuito y codigo
+https://arduinogetstarted.com/tutorials/arduino-bluetooth-led-matrix
